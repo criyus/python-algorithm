@@ -24,6 +24,20 @@ Algoritmik düşünme becerisini maksimize ederek, karmaşık problemleri çöze
     * `hafta_1/orta/`: Birden fazla operatörün kombinasyonu ve mantıksal sorgular.
     * `hafta_1/zor/`: "If" blokları olmadan matematiksel zeka ile problem çözme (Challenge).
 
+
+### 📅 Hafta 2: Koşullu İfadeler ve Kullanıcı Etkileşimi
+*Programın akışını kontrol etme, kullanıcıdan veri alma ve karar mekanizmaları kurma.*
+
+* **Kapsanan Konular:**
+    * `input()` ile dinamik veri alma ve `int()` dönüşümleri.
+    * `if`, `elif`, `else` blokları ile karar yapıları.
+    * Mantıksal operatörlerin karar yapılarında kullanımı.
+    * İç içe (Nested) koşullu ifadeler.
+
+* **Klasör Yapısı:**
+    * `hafta_2/kolay/`: Basit giriş kontrolü ve tekli koşullar.
+    * `hafta_2/orta/`: Hesap makinesi ve aralık sorgulama algoritmaları.
+    * `hafta_2/zor/`: Karmaşık mantıksal sorgular (Artık yıl, Sıralama algoritmaları).
 ---
 
 ## 🛠 Kullanılan Teknolojiler & Araçlar
