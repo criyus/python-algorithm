@@ -38,6 +38,21 @@ Algoritmik düşünme becerisini maksimize ederek, karmaşık problemleri çöze
     * `hafta_2/kolay/`: Basit giriş kontrolü ve tekli koşullar.
     * `hafta_2/orta/`: Hesap makinesi ve aralık sorgulama algoritmaları.
     * `hafta_2/zor/`: Karmaşık mantıksal sorgular (Artık yıl, Sıralama algoritmaları).
+
+### 📅 Hafta 3: Döngüler (Loops) ve Otomasyon
+*Tekrarlayan işlemleri otomatikleştirme ve veri setleri üzerinde gezinme.*
+
+* **Kapsanan Konular:**
+    * `for` döngüsü ve `range()` fonksiyonu ile iterasyon.
+    * `while` döngüsü ile şarta bağlı sonsuz döngüler.
+    * Döngü içi karar yapıları (`if` in `for/while`) ve sayaç (accumulator) mantığı.
+    * `break` komutu ile döngü kırma (ATM örneği).
+
+* **Klasör Yapısı:**
+    * `hafta_3/kolay/`: Basit sayaçlar ve toplama döngüleri.
+    * `hafta_3/orta/`: Faktöriyel hesabı ve veri filtreleme.
+    * `hafta_3/zor/`: Algoritmik problemler (Mükemmel Sayı) ve Simülasyonlar (ATM Uygulaması).
+    
 ---
 
 ## 🛠 Kullanılan Teknolojiler & Araçlar
