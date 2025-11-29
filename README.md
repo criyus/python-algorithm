@@ -9,6 +9,8 @@ Algoritmik düşünme becerisini maksimize ederek, karmaşık problemleri çöze
 
 Çalışmalarım haftalık periyotlar halinde; **Kolay**, **Orta** ve **Zor** seviye algoritmik problemler olarak kategorize edilmiştir.
 
+---
+
 ### 📅 Hafta 1: Temeller ve Mantıksal Operatörler
 *Python'a giriş, veri tipleri ve operatör kullanarak "if-else kullanmadan" mantık kurma üzerine çalışmalar.*
 
@@ -24,6 +26,7 @@ Algoritmik düşünme becerisini maksimize ederek, karmaşık problemleri çöze
     * `hafta_1/orta/`: Birden fazla operatörün kombinasyonu ve mantıksal sorgular.
     * `hafta_1/zor/`: "If" blokları olmadan matematiksel zeka ile problem çözme (Challenge).
 
+---
 
 ### 📅 Hafta 2: Koşullu İfadeler ve Kullanıcı Etkileşimi
 *Programın akışını kontrol etme, kullanıcıdan veri alma ve karar mekanizmaları kurma.*
@@ -39,6 +42,8 @@ Algoritmik düşünme becerisini maksimize ederek, karmaşık problemleri çöze
     * `hafta_2/orta/`: Hesap makinesi ve aralık sorgulama algoritmaları.
     * `hafta_2/zor/`: Karmaşık mantıksal sorgular (Artık yıl, Sıralama algoritmaları).
 
+---
+
 ### 📅 Hafta 3: Döngüler (Loops) ve Otomasyon
 *Tekrarlayan işlemleri otomatikleştirme ve veri setleri üzerinde gezinme.*
 
@@ -52,7 +57,24 @@ Algoritmik düşünme becerisini maksimize ederek, karmaşık problemleri çöze
     * `hafta_3/kolay/`: Basit sayaçlar ve toplama döngüleri.
     * `hafta_3/orta/`: Faktöriyel hesabı ve veri filtreleme.
     * `hafta_3/zor/`: Algoritmik problemler (Mükemmel Sayı) ve Simülasyonlar (ATM Uygulaması).
-    
+
+---
+
+### 📅 Hafta 4: Veri Yapıları - Listeler (Lists)
+*Verileri toplu halde tutma, yönetme ve listeler üzerinde algoritmalar.*
+
+* **Kapsanan Konular:**
+    * Liste oluşturma, indeksleme (`list[0]`) ve dinamik veri ekleme (`append`).
+    * Liste metotları: `.pop()`, `.remove()`, `.insert()`.
+    * İstatistiksel fonksiyonlar: `min`, `max`, `sum`, `len`.
+    * İleri seviye iterasyon: `enumerate` ve `zip` fonksiyonları.
+    * Algoritmik problemler: Manuel sıralama ve matris işlemleri.
+
+* **Klasör Yapısı:**
+    * `hafta_4/kolay/`: Liste güncelleme ve silme işlemleri.
+    * `hafta_4/orta/`: Veri filtreleme (Pozitif/Negatif) ve manuel `max` algoritması.
+    * `hafta_4/zor/`: Listeyi manuel ters çevirme ve iç içe liste (matris) toplamı.    
+
 ---
 
 ## 🛠 Kullanılan Teknolojiler & Araçlar
