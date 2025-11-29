@@ -77,6 +77,23 @@ Algoritmik düşünme becerisini maksimize ederek, karmaşık problemleri çöze
 
 ---
 
+### 📅 Hafta 5: Fonksiyonlar (Functions) ve Modülerlik
+*Kod tekrarını önleme, parametre kullanımı ve dönüş değerleri.*
+
+* **Kapsanan Konular:**
+    * `def` ile fonksiyon tanımlama ve çağırma.
+    * Parametreler, argümanlar ve varsayılan değerler (`default arguments`).
+    * `return` ifadesi ile değer döndürme vs. `print` farkı.
+    * `f-string` ve `.format()` ile metin biçimlendirme.
+    * Algoritmik fonksiyonlar (Asal sayı kontrolü, Harf notu hesaplama).
+
+* **Klasör Yapısı:**
+    * `hafta_5/kolay/`: Dört işlem ve alan hesaplama fonksiyonları.
+    * `hafta_5/orta/`: Liste işleyen ve koşullu dönüş yapan fonksiyonlar.
+    * `hafta_5/zor/`: Asal sayı algoritması ve Şifre üretici simülasyonu.
+
+---
+
 ## 🛠 Kullanılan Teknolojiler & Araçlar
 * **Dil:** Python 3.x
 * **IDE:** Google Colab, VS Code
