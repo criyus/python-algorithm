@@ -94,6 +94,22 @@ Algoritmik düşünme becerisini maksimize ederek, karmaşık problemleri çöze
 
 ---
 
+### 📅 Hafta 6: Veri Yapıları - Tuple & Dictionary
+*Değiştirilemez veriler ve Anahtar-Değer (Key-Value) ilişkisi.*
+
+* **Kapsanan Konular:**
+    * **Tuple (Demet):** Tanımlama, indeksleme ve immutability (değişmezlik) ilkesi.
+    * **Dictionary (Sözlük):** JSON mantığı, Key-Value çiftleri, veri ekleme/silme.
+    * **Dict Metotları:** `.keys()`, `.values()`, `.items()` ve güvenli erişim için `.get()`.
+    * **Nested Structures:** İç içe sözlükler ve listelerle kompleks veri yönetimi.
+
+* **Klasör Yapısı:**
+    * `hafta_6/kolay/`: Tuple immutability testi ve basit sözlük oluşturma.
+    * `hafta_6/orta/`: Port tarama simülasyonu ve `.get()` ile hata önleme.
+    * `hafta_6/zor/`: Log analizi (Parsing) ve Harf Frekans Analizi (Algoritma).
+
+---
+
 ## 🛠 Kullanılan Teknolojiler & Araçlar
 * **Dil:** Python 3.x
 * **IDE:** Google Colab, VS Code
