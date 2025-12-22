@@ -110,6 +110,22 @@ Algoritmik düşünme becerisini maksimize ederek, karmaşık problemleri çöze
 
 ---
 
+### 📅 Hafta 7: String Manipülasyonu & Random Modülü
+*Metin işleme teknikleri, veri temizliği ve rastgele veri üretimi.*
+
+* **Kapsanan Konular:**
+    * **String Metotları:** `strip`, `lower`, `title`, `replace` ile metin düzenleme ve `join` ile birleştirme.
+    * **Veri Doğrulama:** `isdigit`, `isalpha`, `isalnum` metotları ile karakter tipi analizi.
+    * **Random Kütüphanesi:** `random.choice`, `randint` ve `sample` ile rastgele seçimler.
+    * **Algoritmik Mantık:** Metin işleme fonksiyonlarını mantıksal operatörlerle (`if-else`) birleştirme.
+
+* **Klasör Yapısı:**
+    * `hafta_7/kolay/`: Kirli veri temizliği (Data Cleaning) ve string formatlama.
+    * `hafta_7/orta/`: Rastgele MAC Adresi Üretici (Ağ Simülasyonu).
+    * `hafta_7/zor/`: Şifre Güçlülük Analizörü (Checker) ve güvenlik validasyonu.
+
+---
+
 ## 🛠 Kullanılan Teknolojiler & Araçlar
 * **Dil:** Python 3.x
 * **IDE:** Google Colab, VS Code
